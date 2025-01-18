@@ -5,7 +5,7 @@ Create an interactive and dynamic dashboard in Excel using the McDonald's sales 
 ## Dataset Link : 
 https://drive.google.com/drive/folders/1raeubcRpUisUUuDyY6ezvfc7VHHydpoV
 
-Before performing analysis, check for duplicates and in case of null values, utilize forward/backward fill.
+## Before performing analysis, check for duplicates and in case of null values, utilize forward/backward fill.
 
 ## Questions:
 
